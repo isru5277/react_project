@@ -25,7 +25,7 @@ const Footer = () => {
       </div>
 
       <p className="copyright">
-        © 2026 DoctorOnCall. All rights reserved.
+        © 2026 HealthCare. All rights reserved.
       </p>
     </footer>
   );
